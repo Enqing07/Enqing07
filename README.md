@@ -2,11 +2,12 @@
 👩🏻‍🎓 Bachelor of Computer Science (Major in Data Science) | Multimedia University<br>
 🔬 Currently working on Final Year Project: Nuclei Segmentation and HER2 Quantification in Histopathology Images<br>
 
-## 📈Data Science
+## 💻 Project
+### Data Science
 - [Data Science Salary Analysis Dashboard](https://github.com/Enqing07/Data-Science-Salaries-Trend-Dashbaord)
 - [Hotel Booking Cancellation Prediction](https://github.com/Enqing07/Hotel-Booking-Cancellation-Prediction)
 
-## 💻 Software Development
+### Software Development
 - [Academic Administration System](https://github.com/Enqing07/Academic-Administration-System)
 - [Home Resident System](https://github.com/Enqing07/Home-Resident-System)
 
