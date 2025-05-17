@@ -17,6 +17,6 @@
 ## 🤳🏻 Connect with me
 [<img align="left" alt="En Qing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/chew-en-qing-a3402b242
+[linkedin]: https://www.linkedin.com/in/chew-en-qing-a3402b242/
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
