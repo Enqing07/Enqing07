@@ -9,7 +9,7 @@
 
 ### Software Development
 - [Academic Administration System](https://github.com/Enqing07/Academic-Administration-System)
-- [Course Management System](https://github.com/Enqing07/Course_Management-System)
+- [Course Management System](https://github.com/Enqing07/Course-Management-System)
 - [Home Resident System](https://github.com/Enqing07/Home-Resident-System)
 
 ## 👩🏻‍💻 Tech Stack:
