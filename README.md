@@ -1,6 +1,6 @@
 # Hi, I'm En Qing! 👋 
 👩🏻‍🎓 Bachelor of Computer Science (Major in Data Science) | Multimedia University<br>
-🔬 Currently working on Final Year Project: Nuclei Segmentation and HER2 Quantification in Histopathology Images<br>
+🔬 Final Year Project: Nuclei Segmentation and HER2 Quantification in Histopathology Images<br>
 
 ## 💻 Project
 ### Software Development
