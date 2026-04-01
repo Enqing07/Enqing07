@@ -11,8 +11,8 @@
 - [Hotel Booking Cancellation Prediction](https://github.com/Enqing07/Hotel-Booking-Cancellation-Prediction)
 
 ### Software Development
-- [Academic Administration System](https://github.com/Enqing07/Academic-Administration-System)
 - [Course Management System](https://github.com/Enqing07/Course-Management-System)
+- [Academic Administration System](https://github.com/Enqing07/Academic-Administration-System)
 - [Home Resident System](https://github.com/Enqing07/Home-Resident-System)
 
 ## 👩🏻‍💻 Tech Stack:
