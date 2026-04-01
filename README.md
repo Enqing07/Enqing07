@@ -7,6 +7,7 @@
 - [Automated Nuclei Segmentation and Quantification of HER2 Gene Amplification in Pathology Images](https://github.com/Enqing07/nuclei-segmentation-her2-amplification)
 
 ### Data Science
+- [Oxford 102 Flower Classification](https://github.com/kaijun05/oxford-102-flower-classification)
 - [Data Science Salary Analysis Dashboard](https://github.com/Enqing07/Data-Science-Salaries-Trend-Dashbaord)
 - [Hotel Booking Cancellation Prediction](https://github.com/Enqing07/Hotel-Booking-Cancellation-Prediction)
 
