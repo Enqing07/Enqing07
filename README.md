@@ -2,7 +2,7 @@
 👩🏻‍🎓 Bachelor of Computer Science (Major in Data Science)<br>
 
 ## 💻 Project
-### FYP: 
+### FYP
 - [Automated Nuclei Segmentation and Quantification of HER2 Gene Amplification in Pathology Images](https://github.com/Enqing07/nuclei-segmentation-her2-amplification)
 
 ### Data Science
