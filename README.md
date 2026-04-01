@@ -1,5 +1,5 @@
 # Hi, I'm En Qing! 👋 
-👩🏻‍🎓 Bachelor of Computer Science (Major in Data Science) | Multimedia University<br>
+👩🏻‍🎓 Bachelor of Computer Science (Major in Data Science)<br>
 
 ## 💻 Project
 ### FYP: 
