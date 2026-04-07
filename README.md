@@ -1,5 +1,5 @@
 # Hi, I'm En Qing! 👋 
-👩🏻‍🎓 Bachelor of Computer Science (Major in Data Science)<br>
+👩🏻‍🎓 Bachelor of Computer Science (specialization in Data Science)<br>
 
 ## 💻 Project
 ### FYP
