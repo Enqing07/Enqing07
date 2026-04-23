@@ -7,6 +7,7 @@
 
 ### Data Science
 - [Oxford 102 Flower Classification](https://github.com/kaijun05/oxford-102-flower-classification)
+- [Baby Products E-Commerce: Sales Performance & Customer Behavior Analysis ](https://github.com/Enqing07/baby-products-ecommerce-analysis)
 - [Data Science Salary Analysis Dashboard](https://github.com/Enqing07/Data-Science-Salaries-Trend-Dashbaord)
 - [Hotel Booking Cancellation Prediction](https://github.com/Enqing07/Hotel-Booking-Cancellation-Prediction)
 
