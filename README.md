@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BC8CFF&width=600&lines=Hi%2C+I'm+En+Qing+%F0%9F%91%8B;Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+Computer+Vision+%F0%9F%94%AC;Fresh+grad+%C2%B7+Ready+to+build+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-🎓 &nbsp;CS Graduate · Bachelor of Computer Science (Data Science)  
-📍 &nbsp;Malaysia/Singapore · Open to on-site or remote roles  
+# Hi, I'm En Qing! 👋 
+👩🏻‍🎓 CS Graduate · Bachelor of Computer Science (Data Science)<br>
+🌱 Passionate about **Machine Learning** · **Data Analyst** · **Computer Vision** . **AI** 
 
 ## 👩🏻‍💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
