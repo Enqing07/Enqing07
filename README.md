@@ -1,4 +1,5 @@
-# Hi, I'm En Qing! 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&width=600&lines=Hi%2C+I'm+En+Qing+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 👩🏻‍🎓 CS Graduate · Bachelor of Computer Science (Data Science)<br>
 🌱 Passionate about **Machine Learning** · **Data Analyst** · **Computer Vision** . **AI** 
 
